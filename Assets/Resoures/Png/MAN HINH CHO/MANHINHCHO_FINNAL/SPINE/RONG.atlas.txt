@@ -1,0 +1,270 @@
+
+RONG.png
+size: 2032,1988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 283, 2
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+1 - Copy
+  rotate: true
+  xy: 378, 2
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+1 - Copy - Copy
+  rotate: true
+  xy: 378, 2
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1618, 417
+  size: 241, 199
+  orig: 241, 199
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1618, 618
+  size: 444, 355
+  orig: 444, 355
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1003, 384
+  size: 749, 613
+  orig: 749, 613
+  offset: 0, 0
+  index: -1
+TAIL
+  rotate: false
+  xy: 2, 3
+  size: 279, 110
+  orig: 279, 110
+  offset: 0, 0
+  index: -1
+THANH DOWN 1
+  rotate: false
+  xy: 1643, 1064
+  size: 387, 921
+  orig: 387, 921
+  offset: 0, 0
+  index: -1
+THANH UP 1
+  rotate: false
+  xy: 2, 115
+  size: 505, 954
+  orig: 505, 954
+  offset: 0, 0
+  index: -1
+THANH UP 2
+  rotate: false
+  xy: 509, 90
+  size: 492, 979
+  orig: 492, 979
+  offset: 0, 0
+  index: -1
+THANH UP 3
+  rotate: true
+  xy: 535, 1570
+  size: 415, 1106
+  orig: 415, 1106
+  offset: 0, 0
+  index: -1
+THANH UP 4
+  rotate: true
+  xy: 535, 1135
+  size: 433, 976
+  orig: 433, 976
+  offset: 0, 0
+  index: -1
+THANHDOWN 3
+  rotate: false
+  xy: 2, 1071
+  size: 531, 914
+  orig: 531, 914
+  offset: 0, 0
+  index: -1
+THANHDOWN2
+  rotate: true
+  xy: 1003, 138
+  size: 244, 909
+  orig: 244, 909
+  offset: 0, 0
+  index: -1
+
+RONG2.png
+size: 2048,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2 - Copy
+  rotate: true
+  xy: 1106, 718
+  size: 241, 199
+  orig: 241, 199
+  offset: 0, 0
+  index: -1
+2 - Copy - Copy
+  rotate: true
+  xy: 1106, 718
+  size: 241, 199
+  orig: 241, 199
+  offset: 0, 0
+  index: -1
+3 - Copy
+  rotate: false
+  xy: 495, 2
+  size: 444, 355
+  orig: 444, 355
+  offset: 0, 0
+  index: -1
+3 - Copy - Copy
+  rotate: false
+  xy: 495, 2
+  size: 444, 355
+  orig: 444, 355
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 613, 359
+  size: 600, 491
+  orig: 600, 491
+  offset: 0, 0
+  index: -1
+4 - Copy
+  rotate: true
+  xy: 2, 33
+  size: 600, 491
+  orig: 600, 491
+  offset: 0, 0
+  index: -1
+4 - Copy - Copy
+  rotate: true
+  xy: 2, 33
+  size: 600, 491
+  orig: 600, 491
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1106, 81
+  size: 570, 483
+  orig: 570, 483
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1307, 566
+  size: 682, 548
+  orig: 682, 548
+  offset: 0, 0
+  index: -1
+6 - Copy
+  rotate: false
+  xy: 1364, 1373
+  size: 682, 548
+  orig: 682, 548
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 753, 1250
+  size: 671, 609
+  orig: 671, 609
+  offset: 0, 0
+  index: -1
+7 - Copy
+  rotate: true
+  xy: 2, 635
+  size: 671, 609
+  orig: 671, 609
+  offset: 0, 0
+  index: -1
+7 - Copy - Copy
+  rotate: true
+  xy: 2, 635
+  size: 671, 609
+  orig: 671, 609
+  offset: 0, 0
+  index: -1
+8 - Copy
+  rotate: false
+  xy: 2, 1308
+  size: 749, 613
+  orig: 749, 613
+  offset: 0, 0
+  index: -1
+8 - Copy - Copy
+  rotate: false
+  xy: 2, 1308
+  size: 749, 613
+  orig: 749, 613
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 1678, 183
+  size: 381, 256
+  orig: 381, 256
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 613, 961
+  size: 692, 287
+  orig: 692, 287
+  offset: 0, 0
+  index: -1
+
+RONG3.png
+size: 2024,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5 - Copy
+  rotate: false
+  xy: 2, 4
+  size: 570, 483
+  orig: 570, 483
+  offset: 0, 0
+  index: -1
+5 - Copy - Copy
+  rotate: false
+  xy: 2, 4
+  size: 570, 483
+  orig: 570, 483
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 574, 2
+  size: 485, 481
+  orig: 485, 481
+  offset: 0, 0
+  index: -1
+HEAD CLOSE
+  rotate: true
+  xy: 1057, 2
+  size: 485, 481
+  orig: 485, 481
+  offset: 0, 0
+  index: -1
+HEAD UP
+  rotate: true
+  xy: 1540, 2
+  size: 485, 481
+  orig: 485, 481
+  offset: 0, 0
+  index: -1

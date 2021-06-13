@@ -1,0 +1,90 @@
+
+BOOM.png
+size: 1888,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOOM.json
+  rotate: false
+  xy: 1551, 10
+  size: 176, 77
+  orig: 176, 77
+  offset: 0, 0
+  index: -1
+EFFECT/1
+  rotate: false
+  xy: 1812, 212
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+EFFECT/2
+  rotate: true
+  xy: 1689, 115
+  size: 151, 121
+  orig: 151, 121
+  offset: 0, 0
+  index: -1
+EFFECT/3
+  rotate: true
+  xy: 1551, 89
+  size: 177, 136
+  orig: 177, 136
+  offset: 0, 0
+  index: -1
+EFFECT/4
+  rotate: true
+  xy: 1363, 46
+  size: 220, 186
+  orig: 220, 186
+  offset: 0, 0
+  index: -1
+EFFECT/5
+  rotate: true
+  xy: 1153, 33
+  size: 233, 208
+  orig: 233, 208
+  offset: 0, 0
+  index: -1
+EFFECT/6
+  rotate: false
+  xy: 886, 10
+  size: 265, 256
+  orig: 265, 256
+  offset: 0, 0
+  index: -1
+EFFECT/7
+  rotate: false
+  xy: 608, 5
+  size: 276, 261
+  orig: 276, 261
+  offset: 0, 0
+  index: -1
+EFFECT/8
+  rotate: false
+  xy: 2, 3
+  size: 302, 263
+  orig: 302, 263
+  offset: 0, 0
+  index: -1
+EFFECT/9
+  rotate: false
+  xy: 306, 4
+  size: 300, 262
+  orig: 300, 262
+  offset: 0, 0
+  index: -1
+Layer 0
+  rotate: true
+  xy: 1729, 11
+  size: 102, 156
+  orig: 102, 156
+  offset: 0, 0
+  index: -1
+Layer 0 - Copy
+  rotate: false
+  xy: 1153, 2
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1

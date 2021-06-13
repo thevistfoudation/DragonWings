@@ -1,0 +1,55 @@
+
+flying machine.png
+size: 1096,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 1007, 152
+  size: 216, 84
+  orig: 216, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 632, 18
+  size: 182, 218
+  orig: 182, 218
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 375, 151
+  size: 217, 255
+  orig: 217, 255
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 375, 14
+  size: 245, 135
+  orig: 245, 135
+  offset: 0, 0
+  index: -1
+open mouth
+  rotate: false
+  xy: 852, 2
+  size: 232, 148
+  orig: 232, 148
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 5
+  size: 371, 363
+  orig: 371, 363
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 632, 202
+  size: 373, 166
+  orig: 373, 166
+  offset: 0, 0
+  index: -1

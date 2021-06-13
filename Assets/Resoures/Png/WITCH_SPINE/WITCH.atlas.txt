@@ -1,0 +1,20 @@
+
+WITCH.png
+size: 520,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 2, 2
+  size: 258, 392
+  orig: 258, 392
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 396, 88
+  size: 172, 122
+  orig: 172, 122
+  offset: 0, 0
+  index: -1

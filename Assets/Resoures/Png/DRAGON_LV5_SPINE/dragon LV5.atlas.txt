@@ -1,0 +1,48 @@
+
+dragon LV5.png
+size: 568,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2
+  rotate: false
+  xy: 2, 18
+  size: 301, 431
+  orig: 301, 431
+  offset: 0, 0
+  index: -1
+gackground
+  rotate: false
+  xy: 305, 171
+  size: 215, 278
+  orig: 215, 278
+  offset: 0, 0
+  index: -1
+head L
+  rotate: false
+  xy: 378, 545
+  size: 167, 205
+  orig: 167, 205
+  offset: 0, 0
+  index: -1
+head R
+  rotate: true
+  xy: 305, 2
+  size: 167, 205
+  orig: 167, 205
+  offset: 0, 0
+  index: -1
+hhead mid
+  rotate: false
+  xy: 378, 752
+  size: 186, 302
+  orig: 186, 302
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 2, 451
+  size: 603, 374
+  orig: 603, 374
+  offset: 0, 0
+  index: -1

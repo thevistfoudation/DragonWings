@@ -1,0 +1,41 @@
+
+dragon LV1.png
+size: 492,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLOSE EYES
+  rotate: true
+  xy: 2, 542
+  size: 321, 332
+  orig: 321, 332
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 336, 377
+  size: 486, 153
+  orig: 486, 153
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 2, 219
+  size: 321, 332
+  orig: 321, 332
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 336, 148
+  size: 82, 227
+  orig: 82, 227
+  offset: 0, 0
+  index: -1
+gackground
+  rotate: true
+  xy: 2, 2
+  size: 215, 278
+  orig: 215, 278
+  offset: 0, 0
+  index: -1

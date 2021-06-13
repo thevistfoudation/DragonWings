@@ -1,0 +1,41 @@
+
+dragon LV2.png
+size: 1344,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 2, 6
+  size: 78, 253
+  orig: 78, 253
+  offset: 0, 0
+  index: -1
+DEAD
+  rotate: true
+  xy: 475, 2
+  size: 262, 292
+  orig: 262, 292
+  offset: 0, 0
+  index: -1
+DEAD - Copy
+  rotate: true
+  xy: 769, 2
+  size: 262, 292
+  orig: 262, 292
+  offset: 0, 0
+  index: -1
+WING
+  rotate: false
+  xy: 2, 86
+  size: 471, 178
+  orig: 471, 178
+  offset: 0, 0
+  index: -1
+gackground
+  rotate: true
+  xy: 1063, 49
+  size: 215, 278
+  orig: 215, 278
+  offset: 0, 0
+  index: -1

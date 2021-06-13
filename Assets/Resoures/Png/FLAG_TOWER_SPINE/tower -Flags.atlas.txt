@@ -1,0 +1,27 @@
+
+tower -Flags.png
+size: 512,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COT
+  rotate: false
+  xy: 421, 100
+  size: 87, 189
+  orig: 87, 189
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 338, 77
+  size: 81, 212
+  orig: 81, 212
+  offset: 0, 0
+  index: -1
+tower
+  rotate: true
+  xy: 2, 2
+  size: 287, 334
+  orig: 287, 334
+  offset: 0, 0
+  index: -1

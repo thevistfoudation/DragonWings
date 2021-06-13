@@ -1,0 +1,104 @@
+
+Daibac.png
+size: 1360,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT/1
+  rotate: true
+  xy: 1283, 81
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+EFFECT/2
+  rotate: false
+  xy: 780, 2
+  size: 151, 121
+  orig: 151, 121
+  offset: 0, 0
+  index: -1
+EFFECT/3
+  rotate: false
+  xy: 1104, 6
+  size: 177, 136
+  orig: 177, 136
+  offset: 0, 0
+  index: -1
+EFFECT/4
+  rotate: true
+  xy: 592, 28
+  size: 220, 186
+  orig: 220, 186
+  offset: 0, 0
+  index: -1
+EFFECT/5
+  rotate: true
+  xy: 382, 13
+  size: 233, 208
+  orig: 233, 208
+  offset: 0, 0
+  index: -1
+EFFECT/6
+  rotate: true
+  xy: 789, 285
+  size: 265, 256
+  orig: 265, 256
+  offset: 0, 0
+  index: -1
+EFFECT/7
+  rotate: true
+  xy: 1097, 274
+  size: 276, 261
+  orig: 276, 261
+  offset: 0, 0
+  index: -1
+EFFECT/8
+  rotate: true
+  xy: 260, 248
+  size: 302, 263
+  orig: 302, 263
+  offset: 0, 0
+  index: -1
+EFFECT/9
+  rotate: true
+  xy: 525, 250
+  size: 300, 262
+  orig: 300, 262
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 2, 23
+  size: 378, 174
+  orig: 378, 174
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 780, 125
+  size: 315, 123
+  orig: 315, 123
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 199
+  size: 256, 351
+  orig: 256, 351
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1097, 144
+  size: 199, 128
+  orig: 199, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 933, 25
+  size: 169, 98
+  orig: 169, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+dragon LV4.png
+size: 628,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gackground
+  rotate: true
+  xy: 337, 2
+  size: 215, 278
+  orig: 215, 278
+  offset: 0, 0
+  index: -1
+head L
+  rotate: false
+  xy: 425, 219
+  size: 199, 333
+  orig: 199, 333
+  offset: 0, 0
+  index: -1
+head R
+  rotate: true
+  xy: 2, 34
+  size: 263, 333
+  orig: 263, 333
+  offset: 0, 0
+  index: -1
+ody
+  rotate: true
+  xy: 2, 299
+  size: 253, 421
+  orig: 253, 421
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 2, 554
+  size: 602, 310
+  orig: 602, 310
+  offset: 0, 0
+  index: -1
